@@ -3,6 +3,4 @@ layout: page
 title: Presentations
 ---
 
-Here are some presentations about EMUNE from conferences and meetings:
-
-- will appear soon
+Here will be presentations illustrating EMUNE and its sub-projects.

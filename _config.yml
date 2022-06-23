@@ -15,9 +15,9 @@ author: The EMUNE Consortium
 
 navbar-links:
   Resources: "resources"
+  Members: "members"
   Publications: "publications"
   Presentations: "presentations"
-  About: "about"
 
 # --- Logo --- #
 
@@ -93,16 +93,16 @@ feed_show_excerpt: true
 feed_show_tags: true
 
 # Add a search button to the navbar
-post_search: true
+#post_search: true
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "my,list,of,keywords"
+keywords: "emune, invertible neural network, amortized, mechanistic, infectious disease, BayesFlow, Morpheus, pyABC"
 
 # --- Colours / background image --- #
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#01579B" #"#EAEAEA"
+navbar-col: "#012e52" #"#EAEAEA"
 navbar-text-col: "#FFFFFF" #"#404040"
 navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
