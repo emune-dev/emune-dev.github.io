@@ -8,7 +8,7 @@ title: Members
   
 ### University of Bonn, Faculty of Mathematics and Natural Sciences
 - PI: [Jan Hasenauer](https://www.mathematics-and-life-sciences.uni-bonn.de/en/group-members/jan-hasenauer)
-- Members: [Yannik Schälte](https://yannikschaelte.github.io), Emad Alamoudi, Clemens Peiter, Zijian Wang
+- Members: [Yannik Schälte](https://yannikschaelte.github.io), Emad Alamoudi, Clemens Peiter, Jonas Arruda, Zijian Wang
 
 ### Technical University Dresden, Center for Information Services and High Performance Computing
 - PI: [Lutz Brusch](https://www.digs-bb.de/research/research-groups/lutz-brusch)
