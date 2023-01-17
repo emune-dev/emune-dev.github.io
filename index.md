@@ -2,7 +2,7 @@
 layout: page
 title: EMUNE
 subtitle: Enabling Mechanistic Understanding in Infectious Disease Research using Invertible Neural Networks
-cover-img: /assets/img/20230117_heidelberg_grouppic2.jpg
+cover-img: /assets/img/20230117_heidelberg_grouppic1.jpg
 ---
 
 # Aims
